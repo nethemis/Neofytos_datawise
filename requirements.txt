@@ -1,0 +1,9 @@
+pandas
+numpy
+sqlalchemy
+pyyaml
+scikit-learn
+pytest
+matplotlib
+seaborn
+logging
